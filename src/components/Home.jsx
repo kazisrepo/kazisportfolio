@@ -1,3 +1,9 @@
+{
+  /*Developed by: Kazi Islam
+ID: 301163646
+September 29, 2024
+*/
+}
 import React from "react";
 import KaziPic from "../assets/kazi.png";
 import GoalsImage from "../assets/goals.png";

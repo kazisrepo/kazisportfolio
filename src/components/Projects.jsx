@@ -1,3 +1,9 @@
+{
+  /*Developed by: Kazi Islam
+ID: 301163646
+September 29, 2024
+*/
+}
 import React from "react";
 import GearImg from "../assets/gears.png";
 import Footer from "./Footer";
